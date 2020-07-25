@@ -1,14 +1,18 @@
 # EkyllierFiles
 The Ekyllier Files
 
-# TERF
+<b>TERF</b>
+
 Trans-Exclusionary Radical Feminist
 
-# Wokescold
+<b>Wokescold</b>
+
 text
 
-# Larping
+<b>Larping</b>
+
 text
 
-# Reactionary
+<b>Reactionary</b>
+
 text
