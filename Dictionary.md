@@ -15,3 +15,15 @@ text
 <b>Reactionary</b>
 
 text
+
+<b>Anarchism</b>
+
+text
+
+<b>Ancap</b>
+
+Anarcho-capitalist
+
+<b>Ancom</b>
+
+Anarcho-communist
