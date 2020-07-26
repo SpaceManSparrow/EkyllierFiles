@@ -31,3 +31,7 @@ Anarcho-communist
 <b>Trans</b>
 
 Text
+
+<b>Tankie</b>
+
+Text
