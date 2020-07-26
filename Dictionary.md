@@ -27,3 +27,7 @@ Anarcho-capitalist
 <b>Ancom</b>
 
 Anarcho-communist
+
+<b>Trans</b>
+
+Text
