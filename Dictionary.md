@@ -39,3 +39,7 @@ Text
 <b>Political Correctness (PC)</b>
 
 Text
+
+<b>Vanguard / Vanguardism</b>
+
+Text
