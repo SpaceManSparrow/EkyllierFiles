@@ -43,3 +43,7 @@ Text
 <b>Vanguard / Vanguardism</b>
 
 Text
+
+<b>Virtue Signalling</b>
+
+Text
