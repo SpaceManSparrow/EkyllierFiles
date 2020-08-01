@@ -67,3 +67,7 @@ Text
 <b>Dog-whistle</b>
 
 Text
+
+<b>Social Justice Warrior (SJW)</b>
+
+Text
