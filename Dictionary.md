@@ -62,7 +62,7 @@ Text
 
 <b>Grifting</b>
 
-Text
+Taking positions you don't believe in to make more money.
 
 <b>Dog-whistle</b>
 
