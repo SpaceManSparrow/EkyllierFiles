@@ -1,8 +1,8 @@
 # Dictionary
 
-<b>TERF</b>
+**Trans-Exclusionary Radical Feminist (TERF)**
 
-Trans-Exclusionary Radical Feminist
+text
 
 <b>Wokescold</b>
 
