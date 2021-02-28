@@ -30,10 +30,6 @@
   * Twitch
   * Twitter
   * [YouTube](https://www.youtube.com/c/HardcoreLime)
-* **Innuendo Studios**
-  * Twitch
-  * Twitter
-  * [YouTube](https://www.youtube.com/c/InnuendoStudios)
 * **Juice Media**
   * Twitch
   * Twitter
