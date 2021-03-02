@@ -6,10 +6,6 @@
   * Twitch
   * Twitter
   * [YouTube](https://www.youtube.com/channel/UCgcea4FJVYIfNA8ovd9Nydw)
-* **BadEmpanada**
-  * Twitch
-  * Twitter
-  * [YouTube](https://www.youtube.com/c/BadEmpanada/)
 * **Claudia Brown**
   * Twitch
   * Twitter
