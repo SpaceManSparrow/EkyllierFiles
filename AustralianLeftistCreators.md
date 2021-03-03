@@ -15,8 +15,9 @@
   * Twitter
   * [YouTube](https://www.youtube.com/c/CyanLime/)
 * **Ekyllier**
-  * Twitch
-  * Twitter
+  * [Discord](https://discord.gg/hyzg2Ba)
+  * [Twitch](https://www.twitch.tv/ekyllier)
+  * [Twitter](https://twitter.com/ekyllier)
   * [YouTube](https://www.youtube.com/channel/UCf-Vl4z-yWurN9tCX4CCQ5g)
 * **ExtremelyOnlineLeft**
   * Twitch
@@ -34,6 +35,10 @@
   * Twitch
   * Twitter
   * [YouTube](https://www.youtube.com/channel/UCUGyXI5in4MMh5JpvVN2gSw)
+* **Lewibaton**
+  * Twitch
+  * [Twitter](https://twitter.com/lewibaton)
+  * [YouTube](https://www.youtube.com/channel/UCOrR-1Cb1X6euxJf7MrfYug)
 * **only dog on the left**
   * Twitch
   * Twitter
@@ -46,6 +51,10 @@
   * Twitch
   * Twitter
   * [YouTube](https://www.youtube.com/c/PixelHipster)
+* **pixelsmixel**
+  * [Twitch](https://www.twitch.tv/pixelsmixel)
+  * [Twitter](https://twitter.com/pixelsmixel)
+  * [YouTube](https://www.youtube.com/channel/UCvvTD9h3xVJCx67MQCbBBDw)
 * **Tom Tanuki**
   * Twitch
   * Twitter
