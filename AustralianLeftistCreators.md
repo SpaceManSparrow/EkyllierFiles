@@ -1,3 +1,9 @@
+Requirements for this list:
+
+*- Some amount (not necessarily all or even majority) of content either, produced for an Australian audience OR providing an Australian perspective*
+
+*- Progressive anti-capitalist ideology*
+
 * **antipodean_squid**
   * [Twitch](https://www.twitch.tv/antipodean_squid)
   * Twitter
