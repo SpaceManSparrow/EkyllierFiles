@@ -14,6 +14,10 @@ Requirements for this list:
   * Twitch
   * Twitter
   * [YouTube](https://www.youtube.com/channel/UCgcea4FJVYIfNA8ovd9Nydw)
+* **BadEmpanada**
+  * Twitch
+  * [Twitter](https://twitter.com/madempanada)
+  * [YouTube](https://www.youtube.com/channel/UCUzmizB92LJ9oxf5T_snZNA)
 * **Claudia Brown**
   * Twitch
   * Twitter
@@ -43,6 +47,10 @@ Requirements for this list:
   * Twitch
   * Twitter
   * [YouTube](https://www.youtube.com/channel/UCUGyXI5in4MMh5JpvVN2gSw)
+* **Lets Talk: With Danny Hamilton**
+  * Twitch
+  * Twitter
+  * [YouTube](https://www.youtube.com/channel/UCrVfWlZZa5DVoJVhKz8iVXQ)
 * **Lewibaton**
   * Twitch
   * [Twitter](https://twitter.com/lewibaton)
