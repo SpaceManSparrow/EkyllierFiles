@@ -18,6 +18,10 @@ Requirements for this list:
   * Twitch
   * [Twitter](https://twitter.com/madempanada)
   * [YouTube](https://www.youtube.com/channel/UCUzmizB92LJ9oxf5T_snZNA)
+* **Boy Boy**
+  * Twitch
+  * Twitter
+  * [YouTube](https://www.youtube.com/c/BoyBoyProductions/)
 * **Claudia Brown**
   * Twitch
   * Twitter
